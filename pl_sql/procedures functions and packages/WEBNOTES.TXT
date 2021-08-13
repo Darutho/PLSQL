@@ -1,0 +1,18 @@
+There are 2 ways you can install the course(s) from this CD to the Learning Object Delivery (LOD) system on a web server.
+Both methods require that the LOD 1.2 or newer system is already installed on the web server.
+
+---------------------------------------
+LOCAL INSTALL
+at the web server computer
+
+Run d:\setup.exe 
+
+and choose the wizard option related to Learning Object Delivery.  The setup program will scan local drives to find the LOD system settings.
+
+---------------------------------------
+REMOTE INSTALL
+from a computer mapped to the web server
+
+Run d:\setup.exe /n:
+
+where n: is the mapped drive that has the LOD system on it.  Choose the wizard option related to Learning Object Delivery.  The setup program will scan the specified drive to find the LOD system settings.

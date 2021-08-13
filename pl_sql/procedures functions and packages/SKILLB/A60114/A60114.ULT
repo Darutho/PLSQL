@@ -1,0 +1,185 @@
+[A60114_U]
+Unit0=Course Startup
+Unit1=Subprograms  An Introduction
+Unit2=PL SQL Packages
+Unit3=Exception Handling
+
+[A60114_U_SIZE]
+Unit0=847924
+Unit1=1806312
+Unit2=874323
+Unit3=1153970
+
+[A60114_UL]
+Lesson01=Skill Builder Introduction
+Lesson02=Course Overview
+Lesson03=Preassessment
+Lesson11=Subprograms  An Overview
+Lesson12=Procedures and Functions
+Lesson13=Invoking Subprograms
+Lesson14=Debugging Subprograms
+Lesson15=Unit 1 Mastery Module
+Lesson21=Creating PL SQL Packages
+Lesson22=Working With PL SQL Packages
+Lesson23=Unit 2 Mastery Module
+Lesson31=Exceptions  An Introduction
+Lesson32=Trapping Exceptions
+Lesson33=Propagating Exceptions
+Lesson34=Unit 3 Mastery Module
+
+[A60114_UL_SIZE]
+Lesson01=0
+Lesson02=112318
+Lesson03=576487
+Lesson11=248611
+Lesson12=402813
+Lesson13=327776
+Lesson14=507399
+Lesson15=319713
+Lesson21=429784
+Lesson22=336176
+Lesson23=108363
+Lesson31=264241
+Lesson32=507303
+Lesson33=234015
+Lesson34=148411
+
+[A60114_ULT]
+Topic021=Course Overview
+Topic031=Unit 1 Preassessment
+Topic032=Unit 2 Preassessment
+Topic033=Unit 3 Preassessment
+Topic111=Unit 1 Overview and Objectives
+Topic112=Subprograms  Composition
+Topic113=Subprograms  Creation
+Topic121=Parameter Modes  An Introduction
+Topic122=Procedures Versus Functions
+Topic123=Procedures  Creation
+Topic124=Functions  Creation
+Topic131=Invoking Procedures
+Topic132=Invoking Procedures From Procedures
+Topic133=Creating Bind Variables
+Topic134=Invoking Stand-Alone Functions
+Topic141=Performing Debug Actions
+Topic142=Setting a Breakpoint
+Topic143=Stepping Through a Code
+Topic144=Modifying Local Variables
+Topic145=Unit 1 Summary
+Topic211=Unit 2 Overview and Objectives
+Topic212=Procedure Builder Built-In Packages
+Topic213=Creating a Package Specification
+Topic214=Creating a Package Body
+Topic221=Invoking Package Constructs
+Topic222=Referencing a Global Variable
+Topic223=Persistent State of Package Cursors
+Topic224=Unit 2 Summary
+Topic311=Unit 3 Overview and Objectives
+Topic312=Exceptions  Features
+Topic313=Exceptions  Directions for Handling
+Topic321=Exception-Handling Section  Features
+Topic322=Trapping Predefined Exceptions
+Topic323=Trapping Non-Predefined Exceptions
+Topic324=Trapping User-Defined Exceptions
+Topic325=Trapping Exceptions Using Functions
+Topic331=Exceptions  Calling Environments
+Topic332=Propagating Exceptions  Rules
+Topic333=Unit 3 Summary
+Topic151=Unit 1 Mastery Module
+Topic231=Unit 2 Mastery Module
+Topic341=Unit 3 Mastery Module
+
+[A60114_ULT_SIZE]
+Topic021=112318
+Topic031=319713
+Topic032=108363
+Topic033=148411
+Topic111=79305
+Topic112=83724
+Topic113=85582
+Topic121=83968
+Topic122=79142
+Topic123=103514
+Topic124=136189
+Topic131=93524
+Topic132=80490
+Topic133=79105
+Topic134=74657
+Topic141=100904
+Topic142=90105
+Topic143=101496
+Topic144=147770
+Topic145=67124
+Topic211=79029
+Topic212=132737
+Topic213=107647
+Topic214=110371
+Topic221=85701
+Topic222=81464
+Topic223=101842
+Topic224=67169
+Topic311=78963
+Topic312=93491
+Topic313=91787
+Topic321=70168
+Topic322=141091
+Topic323=105019
+Topic324=96165
+Topic325=94860
+Topic331=85251
+Topic332=81826
+Topic333=66938
+Topic151=319713
+Topic231=108363
+Topic341=148411
+
+[A60114_ULT_FILE]
+Topic021=60114021.JDB
+Topic031=60114151.JDB
+Topic032=60114231.JDB
+Topic033=60114341.JDB
+Topic111=60114111.JDB
+Topic112=60114112.JDB
+Topic113=60114113.JDB
+Topic121=60114121.JDB
+Topic122=60114122.JDB
+Topic123=60114123.JDB
+Topic124=60114124.JDB
+Topic131=60114131.JDB
+Topic132=60114132.JDB
+Topic133=60114133.JDB
+Topic134=60114134.JDB
+Topic141=60114141.JDB
+Topic142=60114142.JDB
+Topic143=60114143.JDB
+Topic144=60114144.JDB
+Topic145=60114145.JDB
+Topic211=60114211.JDB
+Topic212=60114212.JDB
+Topic213=60114213.JDB
+Topic214=60114214.JDB
+Topic221=60114221.JDB
+Topic222=60114222.JDB
+Topic223=60114223.JDB
+Topic224=60114224.JDB
+Topic311=60114311.JDB
+Topic312=60114312.JDB
+Topic313=60114313.JDB
+Topic321=60114321.JDB
+Topic322=60114322.JDB
+Topic323=60114323.JDB
+Topic324=60114324.JDB
+Topic325=60114325.JDB
+Topic331=60114331.JDB
+Topic332=60114332.JDB
+Topic333=60114333.JDB
+Topic151=60114151.JDB
+Topic231=60114231.JDB
+Topic341=60114341.JDB
+
+[A60114]
+Title=Oracle PL SQL  Procedures
+Icon=Oracle PL SQL Procedures
+CourseVersion=10
+
+[A60114_SIZE]
+EntireCourse=4106042

@@ -1,0 +1,6 @@
+[InstallShield Silent]
+Version=v3.00.000
+File=Log File
+
+[ResponseResult]
+ResultCode=0
